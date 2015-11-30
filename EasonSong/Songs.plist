@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>好久不见</string>
+		<key>filename</key>
+		<string>好久不见.mp3</string>
+		<key>lyricname</key>
+		<string>好久不见.lrc</string>
+		<key>image</key>
+		<string>1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>稳稳的幸福</string>
+		<key>filename</key>
+		<string>稳稳的幸福.mp3</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>娱乐天空</string>
+		<key>filename</key>
+		<string>娱乐天空.mp3</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>谢谢侬</string>
+		<key>filename</key>
+		<string>谢谢侬.mp3</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>梦想天空分外蓝</string>
+		<key>filename</key>
+		<string>梦想天空分外蓝.mp3</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>缘分天空</string>
+		<key>filename</key>
+		<string>缘分天空.mp3</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>碌卡</string>
+		<key>filename</key>
+		<string>碌卡.mp3</string>
+		<key>image</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
